@@ -1,0 +1,23 @@
+*
+{
+	font-family:tahoma;
+	text-align:center;	
+	color: rgb(13, 134, 94);
+}
+.flex-center{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 10,10,10,10;
+	background-image: url(./D2s.gif);
+	background-repeat: no-repeat;
+	background-position: center;
+	/* background-size: cover;  */
+}
+#fondo{
+	width: 800px;
+	height: 500px;
+}
+body{
+	background-color: white;
+}
